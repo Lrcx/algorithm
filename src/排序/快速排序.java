@@ -1,3 +1,5 @@
+package 排序;
+
 import java.util.Arrays;
 
 public class 快速排序 {
